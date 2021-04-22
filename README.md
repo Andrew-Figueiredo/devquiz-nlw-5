@@ -1,16 +1,14 @@
-# devquiz
+# Next Level Week - Flutter
 
-A new Flutter project.
+Neste respositório, contem a aplicação flutter ensinado pela empresa Rocketseat em uma semana de emerção de muito conhecimento sobre diversas tecnologias atuais no mercado Dev.
 
-## Getting Started
+Nesta edição decide seguir pelo Flutter que é um kit de desenvolvimento de interface de usuário, criado pela empresa Google.
 
-This project is a starting point for a Flutter application.
+A ideia é desenvolver um App para aprendizado Flutter utilizando Quiz, O projeto desenvolvido em Figma por Tiago Luchtenberg que se encontra [Aqui](https://www.figma.com/file/fMqKhwT9L5D3MVe4btRtG5/DevQuiz?node-id=0%3A1).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O aprendizado foi separado em 5 dias:
+-[x] Dia 1
+-[ ] Dia 2
+-[ ] Dia 3
+-[ ] Dia 4
+-[ ] Dia 5
